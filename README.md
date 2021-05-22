@@ -1,5 +1,4 @@
 # MoonClient
-# <img src='images/moon-title.png' height='50' alt='Moon Logo'/>
 
 _**The power of react-query with your favorite HTTP Client**_
 
