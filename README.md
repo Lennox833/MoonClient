@@ -7,3 +7,5 @@ Le code source n'a aucun lien avec le projet en lui-même et est là juste à bu
 
 - [x] Prochain projet: Pégase
 - [x] ETA: soon...
+
+___CE PROJET N'EST EN *AUCUN* CAS AFFILIÉ A BIRTY NI DWAYZ OU MULTIGAMING07.___
