@@ -9,3 +9,4 @@ Le code source n'a aucun lien avec le projet en lui-même et est là juste à bu
 - [x] ETA: soon... (d'autres projets de EGIRL-ARMY?)
 
 ___Cela va sans dire, mais bonne chance :)___
+🇲🇦🇨🇦🇫🇷
