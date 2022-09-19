@@ -5,7 +5,7 @@ Le code source n'a aucun lien avec le projet en lui-même et est là juste à bu
 
 ## Un token grabber pour Discord Webhook.
 
-- [x] Prochain projet: Pégase
-- [x] ETA: soon...
+- [x] Prochain projet: Pégase (ÉCHEC)
+- [x] ETA: soon... (d'autres projets de EGIRL-ARMY?)
 
-___CE PROJET N'EST EN *AUCUN* CAS AFFILIÉ A BIRTY NI DWAYZ OU MULTIGAMING07.___
+___Cela va sans dire, mais bonne chance :)___
